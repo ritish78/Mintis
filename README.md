@@ -3,6 +3,11 @@ This README is just a fast *quick start* document.
 What is Mintis?
 --------------
 
+<p align="center">
+    <img src="https://github.com/ritish78/Mintis/assets/36816476/ff97cae7-32e6-460c-99ea-ddcc1cfe0df1" />
+</p>
+
+
 Mintis is often referred to as a *data structures* server. What this means is that mintis provides access to mutable data structures via a set of commands, which are sent using a *server-client* model with TCP sockets and a simple protocol. So different processes can query and modify the same data structures in a shared way.
 
 Data structures implemented into mintis have a few special properties:
